@@ -1,0 +1,9 @@
+h1,h2,game-canvas{
+    text-align: center;
+}
+#Score{
+    color: green;
+}
+#gameover{
+    color: red;
+}
